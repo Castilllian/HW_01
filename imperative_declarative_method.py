@@ -16,3 +16,4 @@ def sort_list_declarative(numbers):
 numbers_list = [11, 9, 5, 8, 4, 3, 2, 7]
 result = sort_list_declarative(numbers_list)
 print(result)
+
